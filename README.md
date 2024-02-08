@@ -1,2 +1,5 @@
 # Heart-Disease-Prediction-ML
 Welcome to my comprehensive repository for heart disease prediction! Leveraging Python's data processing and machine learning libraries like Pandas, NumPy, and scikit-learn, this repository offers a thorough exploration of heart disease prediction using various classification algorithms. From preprocessing the dataset to evaluating model performance with metrics like accuracy, F1-score, and ROC curves, I've covered it all. You'll find implementations of logistic regression, K-nearest neighbors, decision trees, and random forest classifiers, along with techniques like outlier removal, feature scaling, and hyperparameter tuning. Feel free to explore the code, learn from the detailed comments, and utilize the predictive models for your own heart disease prediction tasks.
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+</p>
